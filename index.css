@@ -1,0 +1,78 @@
+.btn-download {
+    font-weight: 500;
+    color: #f8f8f8;
+    border-color: #f8f8f8;
+    background-color: transparent;
+}
+
+.btn-download a{
+    color: #fd878e;
+    text-decoration: none;
+}
+
+
+.btn-download a:hover{
+    color: #fd878e;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #563d7c;
+    border-color: #563d7c;
+}
+
+.btn-primary a:hover{
+    color: #fff;
+    background-color: #7952b3;
+    border-color: #7952b3;
+}
+
+.purplebox{
+    background: linear-gradient(to bottom right, #c26bd6 0%, #3123ae 100%);
+    text-align: center;
+}
+
+.purplebox h1{
+    color: #f8f8f8;
+    padding: 1rem;
+}
+.purplebox .lead{
+    opacity: .7;
+    color: #fd878e;
+    font-size: 2rem;
+}
+
+.demo-item {
+    transition: .3s ease-in-out;
+    position: relative;
+}
+
+
+container{
+    padding: 1em;
+}
+
+h3{
+    padding: 2rem;
+}
+
+.gray-block {
+  background-color: #f8f8f8;    
+}
+
+.content{
+  padding: 20px;
+}
+ .users h3, .users p{
+     display: block;
+ }
+
+.footer-dark{
+    background: #343a40;
+    color: #f8f8f8;
+    padding: 1em;
+}
+
+footer ul li{
+  list-style: none;
+}
