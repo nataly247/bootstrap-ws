@@ -41,6 +41,9 @@
     color: #fd878e;
     font-size: 2rem;
 }
+.emailbox{
+    padding-top: 2em;
+}
 
 .demo-item {
     transition: .3s ease-in-out;
